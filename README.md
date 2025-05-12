@@ -7,13 +7,13 @@ Specific Requirements
 * Measured voltage must be displayed on a computer monitor up to 2 decimal places.
 * The percent difference between the Arduino’s ADC and our ADC needs to be printed on the computer monitor.
 
-# General Requirements
+General Requirements
 * Smaller than the palm of a hand 
 * Minimal power supply usage 
 * Shouldn’t use too many components 
 * Relatively simple circuit
 
-# Constraints
+Constraints
 * The difference between the Arduino ADC and our ADC must be below 2% for all values
 * Sourceable parts (All the parts we use must be accessible through the cage or the IEEE room)
 * Response time should be less than 2 second(s)
